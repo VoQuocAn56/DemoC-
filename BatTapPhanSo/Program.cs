@@ -8,6 +8,9 @@ namespace BatTapPhanSo
 {
     class Program
     {
+
+
+
         static void Main(string[] args)
         {
             bool KiemTra = false;
