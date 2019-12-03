@@ -1,0 +1,7 @@
+D:\Project\Project code\Project C-sharp Console\BatTapPhanSo\BatTapPhanSo\obj\Debug\BatTapPhanSo.csprojAssemblyReference.cache
+D:\Project\Project code\Project C-sharp Console\BatTapPhanSo\BatTapPhanSo\obj\Debug\BatTapPhanSo.csproj.CoreCompileInputs.cache
+D:\Project\Project code\Project C-sharp Console\BatTapPhanSo\BatTapPhanSo\bin\Debug\BatTapPhanSo.exe.config
+D:\Project\Project code\Project C-sharp Console\BatTapPhanSo\BatTapPhanSo\bin\Debug\BatTapPhanSo.exe
+D:\Project\Project code\Project C-sharp Console\BatTapPhanSo\BatTapPhanSo\bin\Debug\BatTapPhanSo.pdb
+D:\Project\Project code\Project C-sharp Console\BatTapPhanSo\BatTapPhanSo\obj\Debug\BatTapPhanSo.exe
+D:\Project\Project code\Project C-sharp Console\BatTapPhanSo\BatTapPhanSo\obj\Debug\BatTapPhanSo.pdb
